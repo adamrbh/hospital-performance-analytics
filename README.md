@@ -1,5 +1,8 @@
 # 🏥 Dashboard de Performance Hospitalière 
 
+
+<img width="1092" height="672" alt="image" src="https://github.com/user-attachments/assets/3f1552fd-ddcd-4266-b16c-313c680507ef" />
+
 ## 📋 Présentation du Projet
 
 Ce projet présente un tableau de bord analytique conçu pour le suivi de la performance et de la qualité des soins au sein d'un établissement hospitalier (**Apollo Hospitals**).
